@@ -1,0 +1,18 @@
+AI CHAT TRANSCRIPT
+======================================================================
+
+Session started: 2026-07-12 10:27:49
+Provider: LM Studio Local Server
+Model: qwen/qwen3.5-9b
+Temperature: 0.7
+Maximum output tokens: 77777
+
+System instruction:
+You are a helpful general-purpose AI assistant. Answer accurately, clearly, and practically. Answer in the same language as the user.
+
+======================================================================
+
+[10:28:28] System
+----------------------------------------------------------------------
+Chat started using LM Studio Local Server, model qwen/qwen3.5-9b.
+
