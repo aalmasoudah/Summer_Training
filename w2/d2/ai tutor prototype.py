@@ -56,7 +56,7 @@ model_name = None
 
 system_instruction = None
 temperature_value = 1.0
-max_tokens_value = 1500
+max_tokens_value = 15000
 
 conversation_log = []
 

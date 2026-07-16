@@ -1,0 +1,38 @@
+[theme]
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#0E9FB5"
+backgroundColor = "#F2FAFC"
+secondaryBackgroundColor = "#E5F4F7"
+textColor = "#173644"
+borderColor = "#A8DDE5"
+showWidgetBorder = true
+
+[theme.light.sidebar]
+primaryColor = "#0E9FB5"
+backgroundColor = "#102733"
+secondaryBackgroundColor = "#20313C"
+textColor = "#F2FCFE"
+borderColor = "#2D7182"
+showWidgetBorder = true
+
+[theme.dark]
+primaryColor = "#0E9FB5"
+backgroundColor = "#0E151A"
+secondaryBackgroundColor = "#102733"
+textColor = "#EAFBFE"
+borderColor = "#2D7182"
+showWidgetBorder = true
+
+[theme.dark.sidebar]
+primaryColor = "#49BDD0"
+backgroundColor = "#102733"
+secondaryBackgroundColor = "#20313C"
+textColor = "#F2FCFE"
+borderColor = "#2D7182"
+showWidgetBorder = true
+
+[client]
+showErrorDetails = "none"
+toolbarMode = "auto"
